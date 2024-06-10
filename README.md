@@ -2,7 +2,7 @@
 
 Meu nome e Caio Lavezzo
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://ww.alura.co.br)
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaco para me organizacao e compartilhamento dos meus projetos desenvolvidos
 
